@@ -197,7 +197,7 @@ class WelcomeStudent:
         self.b1.place(x=160,y=20)
         self.l1.place(x=20,y=20)
         self.root.mainloop()            
-#----------XXXX-----This Quiz Logic is not working------XXXX------
+#-------------------------------------------------------------XXXX------
 
     def Quiz(self):
         self.aq=[]
